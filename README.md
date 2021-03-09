@@ -1,4 +1,4 @@
-# Group Proyect "Erbwerk - Our furniturestore"
+# Group Project "Erbwerk - Our furniturestore"
 
 ## Collaborators:
 
@@ -8,11 +8,11 @@
 * [Habid](https://github.com/habidbesp)
 
 
-## See the presentation of this proyect
+## See the presentation of this project
 
-[Click Hier](https://docs.google.com/presentation/d/1t8RFuAC9pwvoMDvlTQlTwUdHDFjySqnEcg-StTgCJTI/edit#slide=id.gc5c18b004a_2_50)
+[Click Here](https://docs.google.com/presentation/d/1t8RFuAC9pwvoMDvlTQlTwUdHDFjySqnEcg-StTgCJTI/edit#slide=id.gc5c18b004a_2_50)
 
 ## Go to the Page
 
-[Click hier](https://habidbesp.github.io/furniture.github.io/index.html)
+[Click here](https://habidbesp.github.io/furniture.github.io/index.html)
 
